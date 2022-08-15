@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wSrbn3HkaOWgFPg6PCFh2xppl7e8+tht3vGxFrkHVGI=",
+  "Source": "AspDotNetCore_6_Docker",
+  "BasePath": "_content/AspDotNetCore_6_Docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
